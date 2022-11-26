@@ -1,0 +1,6 @@
+name: SkyfallRanks
+version: '${project.version}'
+main: info.charlieward.skyfallranks.SkyfallRanks
+api-version: 1.17
+authors: [ LousyBoi ]
+description: Ranks system for skyfall
